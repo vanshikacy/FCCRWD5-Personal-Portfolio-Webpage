@@ -5,7 +5,7 @@ All five are built with plain HTML and CSS — focused on structure, responsiven
 
 ### 5. Personal Portfolio Page
 A starter personal portfolio with links and placeholder content. Responsive layout. 
-[FCCRWD5: Personal Portfolio Page](https://vanshikacy.github.io/FCCRWD5-Personal-Portfolio-Webpage/#projects)
+[FCCRWD5: Personal Portfolio Page](https://vanshikacy.github.io/FCCRWD5-Personal-Portfolio-Webpage/)
 
 ## Notes
 
