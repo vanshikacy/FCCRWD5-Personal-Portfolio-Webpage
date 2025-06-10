@@ -35,15 +35,16 @@ a, nav{
 
 #welcome-section {
   height: 100vh;
-  margin-top: 55px;
-  font-family: 'Raleway', sans-serif;
-  color: white;
+  padding-top: 80px; 
+  box-sizing: border-box;
+  margin-left: 100px;
+  margin-right: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-left: 100px;
-  margin-right: 100px;
+  font-family: 'Raleway', sans-serif;
+  color: white;
 }
 
 #pfp{
